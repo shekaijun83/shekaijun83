@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shekaijun83
+- 👀 I’m interested in Backend developer in training, proficient in ASP.NET. 
+- 🌱 I’m currently learning Eager to create robust, efficient server-side solutions.
